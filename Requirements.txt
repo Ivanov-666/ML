@@ -1,6 +1,8 @@
-notebook
-scikit-learn
 pandas
+scikit-learn
 matplotlib
 seaborn
+scipy
+networkx
+notebook
 tensorflow
