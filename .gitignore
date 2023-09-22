@@ -145,6 +145,7 @@ dmypy.json
 
 # Datasets
 .csv/
+.tsv/
 
 # Pyre type checker
 .pyre/
