@@ -144,8 +144,8 @@ venv.bak/
 dmypy.json
 
 # Datasets
-.csv/
-.tsv/
+.csv
+.tsv
 
 # Pyre type checker
 .pyre/
